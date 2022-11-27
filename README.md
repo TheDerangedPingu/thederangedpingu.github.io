@@ -8,5 +8,5 @@ This is my Website
 
 
 Credits: 
-HTML- @COHEJH
+HTML- @COHEJH (I edited it ofc)
 Icons- Bootstrap
