@@ -1,11 +1,4 @@
-This is my Website
+My Website Credits:
 
 
-
-
-
-
-
-
-Credits: 
 HTML- @COHEJH (I edited it ofc), Icons- Bootstrap
