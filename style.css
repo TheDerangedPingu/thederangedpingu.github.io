@@ -102,7 +102,7 @@ section .title::after{
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: #f0dbb0;
+    color: #d99477;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -194,19 +194,19 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: #f0dbb0;
+    color: #d99477;
     font-weight: 500;
 }
 .home .home-content a{
     display: inline-block;
-    background: #f0dbb0;
+    background: #d99477;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 30px;
-    border: 2px solid #f0dbb0;
+    border: 2px solid #d99477;
     transition: all 0.3s ease;
     animation: shadow-pulse 2s infinite;
 }
@@ -422,13 +422,13 @@ section .title::after{
     background: #d99477;
 }
 .skills-content .right .dissite::before{
-    width: 46%;
+    width: 78%;
 }
 .skills-content .right .cos::before{
-    width: 0%;
+    width: 25%;
 }
 .skills-content .right .ccg::before{
-    width: 80%;
+    width: 0%;
 }
 .skills-content .right .scrunch::before{
     width: 97%;
