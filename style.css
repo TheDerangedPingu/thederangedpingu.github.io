@@ -38,6 +38,12 @@ section{
 .about, .services, .skills, .teams, .contact, .services2{
     font-family: 'Poppins', sans-serif;
 }
+.lolrekt:hover{
+    text-decoration: underline;
+}
+.lolrekt{
+    color: #d99477;
+    text-decoration: none;
 .about .about-content,
 .services .serv-content,
 .skills .skills-content,
