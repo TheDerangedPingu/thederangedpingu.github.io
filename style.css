@@ -38,13 +38,6 @@ section{
 .about, .services, .skills, .teams, .contact, .services2{
     font-family: 'Poppins', sans-serif;
 }
-.lolrekt:hover{
-    text-decoration: underline;
-}
-.lolrekt{
-    color: #d99477;
-    text-decoration: none;
-}
 .about .about-content,
 .services .serv-content,
 .skills .skills-content,
@@ -428,6 +421,13 @@ section .title::after{
     top: 0;
     background: #d99477;
 }
+.skills-content .right .lolrekt:hover{
+    text-decoration: underline;
+}
+.skills-content .right .lolrekt{
+    color: #d99477;
+    text-decoration: none;
+}
 .skills-content .right .dissite::before{
     width: 78%;
 }
@@ -437,11 +437,11 @@ section .title::after{
 .skills-content .right .ccg::before{
     width: 0%;
 }
-.skills-content .right .scrunch::before{
-    width: 97%;
+.skills-content .right .idc::before{
+    width: 0%;
 }
-.skills-content .right .mysql::before{
-    width: 70%;
+.skills-content .right .idk::before{
+    width: 0%;
 }
 
 /* teams section styling */
