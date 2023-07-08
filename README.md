@@ -1,4 +1,1 @@
-My Website Credits:
-
-
-HTML- @COHEJH (I edited it ofc), Icons- Bootstrap
+My Website (currently under development).
